@@ -1,5 +1,8 @@
 # Simple TODO Application - Assignment for Project 1 at Laurea UAS
 
+## Github Repository
+- [https://github.com/maixuanlinh/ToDoList-Laurea](https://github.com/maixuanlinh/ToDoList-Laurea)
+
 ## Overview
 This is a simple TODO application built with HTML, CSS, and JavaScript. The application allows users to:
 
@@ -37,6 +40,7 @@ A modern web-browser like Chrome, Firefox etc.
 ## Deployment
 The project is deployed on Azure Static Web Apps and is available at the following URL:
 - [https://white-flower-02726f703.4.azurestaticapps.net/](https://white-flower-02726f703.4.azurestaticapps.net/)
-
+Also available at Github Page:
+- [https://maixuanlinh.github.io/ToDoList-Laurea/](https://maixuanlinh.github.io/ToDoList-Laurea/)
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
