@@ -1,5 +1,8 @@
 # Simple TODO Application - Assignment for Project 1 at Laurea UAS
 
+## VIEW LIVE WEBSITE DEMO AT:
+- [https://white-flower-02726f703.4.azurestaticapps.net/](https://white-flower-02726f703.4.azurestaticapps.net/)
+
 ## Github Repository
 - [https://github.com/maixuanlinh/ToDoList-Laurea](https://github.com/maixuanlinh/ToDoList-Laurea)
 
