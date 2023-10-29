@@ -114,3 +114,33 @@ html {
     text-align: center;
   }
 
+  /* For responsive on mobile devices */
+  @media screen and (max-width: 480px) {
+    .box {
+      margin: 20px auto;
+      max-width: 95%; /* Adjust width */
+    }
+  
+    input[type="text"] {
+      width: 80%; /* Reduce the width */
+      font-size: 16px; /* Smaller text */
+    }
+  
+    button {
+      font-size: 24px; /* Smaller button text */
+    }
+  
+    p {
+      font-size: 16px; /* Smaller text */
+    }
+    
+    input[type="checkbox"] {
+      margin: 15px; /* Less margin */
+    }
+  
+    footer {
+      font-size: 14px; /* Smaller footer text */
+    }  
+  
+  }
+
