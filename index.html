@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Simple TODO Application</title>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+  <div class="box">
+    <div id="heading">
+      <h1>TODO Application</h1>
+    </div>
+    <form>
+      <input type="text" id="taskInput" placeholder="Enter your task">
+      <button type="button" onclick="addTask()">+</button>
+    </form>
+    <div id="error"></div>
+    <ul id="taskList">
+    </ul>
+  </div>
+  <footer>
+    Open tasks: <span id="counter">0</span>
+  </footer>
+</body>
+<script src="script.js"></script>
+</html>
