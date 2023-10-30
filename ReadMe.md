@@ -2,7 +2,8 @@
 
 ## VIEW LIVE WEBSITE DEMO AT:
 - [https://white-flower-02726f703.4.azurestaticapps.net/](https://white-flower-02726f703.4.azurestaticapps.net/)
-
+## VIDEO PRESENTATION LINK
+- [https://youtu.be/nWKxyYOElBg?si=_z8uIZPG44LEdkWw](https://youtu.be/nWKxyYOElBg?si=_z8uIZPG44LEdkWw)
 ## Github Repository
 - [https://github.com/maixuanlinh/ToDoList-Laurea](https://github.com/maixuanlinh/ToDoList-Laurea)
 
